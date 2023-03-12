@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+    <user>
+        <id>1</id>
+        <name>王二狗</name>
+        <password>15697213978</password>
+        <sex>男</sex>
+    </user>
+    <user id = "2">
+        <name>李翠花</name>
+        <password>1156435624</password>
+        <sex>女</sex>
+    </user>
+    <user id ='2' name = "吴刚" password = "139726845" sex = "男"/>
+</users>
